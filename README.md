@@ -60,5 +60,5 @@ Code examples and reference materials from Fluent Python
     * [Why indexing should start at 0 (mentioned in fluent python)](https://www.cs.utexas.edu/users/EWD/transcriptions/EWD08xx/EWD831.html)  
         
   * **Notes About Reading**
-    * From [phoenixAja](https://github.com/phoenixAja): "I put in the link for "why numbering should start at zero" from the fluent python extra reading because I thought it was interesting, and a maybe a good last antidote of the sequences chapter. "
+    * From [phoenixAja](https://github.com/phoenixAja): "I put in the link for _why numbering should start at zero_ from the fluent python extra reading because I thought it was interesting, and a maybe a good last antidote of the sequences chapter. "
     
